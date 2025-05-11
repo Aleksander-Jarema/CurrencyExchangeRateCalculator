@@ -6,7 +6,7 @@ Allows users to convert between currencies and optionally view historical rates 
 ## 📦 Requirements
 
 - Python 3.8 or higher  
-- (Optional) External libraries, for example:
+- External libraries, for example:
   - `requests`
   - `json`
 
